@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/enum-field",
+    "name": "arodu/enum-field",
     "description": "EnumField plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
